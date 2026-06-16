@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ASAS Real Estate OS",
+  "description": "Enterprise-grade real estate operating system for tracking sales, leads, and commissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
